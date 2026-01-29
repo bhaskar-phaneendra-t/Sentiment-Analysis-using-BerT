@@ -151,5 +151,3 @@ Negative
 ##  Author
 
 **Tatapudi Bhaskar Phaneendra**
-Machine Learning / NLP Enthusiast
-
