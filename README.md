@@ -101,7 +101,7 @@ python main.py
 
 ---
 
-## 🧪 Inference (Test the Trained Model)
+##  Inference (Test the Trained Model)
 
 Run:
 
@@ -118,7 +118,7 @@ Negative
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Python
 * PyTorch
@@ -129,7 +129,7 @@ Negative
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * Transformer-based NLP modeling
 * Handling large-scale text data efficiently
@@ -139,7 +139,7 @@ Negative
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Train on larger dataset (80k–150k samples)
 * Upgrade to RoBERTa-base
@@ -148,7 +148,7 @@ Negative
 
 ---
 
-## 👤 Author
+##  Author
 
 **Tatapudi Bhaskar Phaneendra**
 Machine Learning / NLP Enthusiast
