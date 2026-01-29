@@ -1,5 +1,5 @@
 
-# Twitter Sentiment Analysis using DistilBERT
+# Twitter Sentiment Analysis using BERT
 
 An end-to-end NLP project that performs **binary sentiment analysis (positive / negative)** on Twitter data using **DistilBERT**.  
 The project follows a **production-style ML pipeline** with modular code, logging, exception handling, early stopping, and model persistence.
@@ -20,10 +20,10 @@ The project follows a **production-style ML pipeline** with modular code, loggin
 
 - **Model:** DistilBERT (`distilbert-base-uncased`)
 - **Task:** Binary sentiment classification
-- **Dataset Size:** 40,000 tweets (balanced)
+- **Dataset Size:** 160,000 tweets (balanced)
 - **Evaluation Metrics:** Accuracy, F1-score
 - **Best Accuracy:** ~82–85%
-- **Early Stopping:** Enabled (patience = 2)
+- **Early Stopping:** Enabled
 
 ---
 
@@ -149,9 +149,5 @@ Negative
 ---
 
 ##  Author
+**Tatapudi Bhaskar Phaneendra**
 
-<<<<<<< HEAD
-**Tatapudi Bhaskar Phaneendra**
-=======
-**Tatapudi Bhaskar Phaneendra**
->>>>>>> 81d2dcc (sentiment analysis of the twitter tweets.)
