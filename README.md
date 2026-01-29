@@ -150,4 +150,8 @@ Negative
 
 ##  Author
 
+<<<<<<< HEAD
 **Tatapudi Bhaskar Phaneendra**
+=======
+**Tatapudi Bhaskar Phaneendra**
+>>>>>>> 81d2dcc (sentiment analysis of the twitter tweets.)

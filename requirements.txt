@@ -1,0 +1,14 @@
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+requests
+transformers
+transformers
+torch
+flask
+ipykernel
+jupyterlab
+accelerate>=1.1.0
