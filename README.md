@@ -6,7 +6,7 @@ The project follows a **production-style ML pipeline** with modular code, loggin
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 - Built a complete sentiment analysis pipeline using **transformer-based NLP**
 - Fine-tuned **DistilBERT** on a balanced subset of Twitter data
@@ -16,7 +16,7 @@ The project follows a **production-style ML pipeline** with modular code, loggin
 
 ---
 
-## 🧠 Model & Performance
+##  Model & Performance
 
 - **Model:** DistilBERT (`distilbert-base-uncased`)
 - **Task:** Binary sentiment classification
@@ -27,7 +27,7 @@ The project follows a **production-style ML pipeline** with modular code, loggin
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 
@@ -64,13 +64,13 @@ sentiment_analysis_bert/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Create and activate virtual environment
+### 1️ Create and activate virtual environment
 ```bash
 python -m venv projectenv
 projectenv\Scripts\activate
 ````
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Train the Model
+##  How to Train the Model
 
 1. Place the dataset in:
 
@@ -153,7 +153,3 @@ Negative
 **Tatapudi Bhaskar Phaneendra**
 Machine Learning / NLP Enthusiast
 
-```
-
-
-# Sentiment-Analysis-using-BerT
